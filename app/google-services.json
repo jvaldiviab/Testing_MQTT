@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283215633653",
+    "project_id": "test-tb-e6503",
+    "storage_bucket": "test-tb-e6503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283215633653:android:746585bef5bbce2cb0b9bc",
+        "android_client_info": {
+          "package_name": "com.jvaldivia.testingmqttservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283215633653-aakedt557r3546e2mvdfej8j4cit5l0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5OdQF5VH-S3tPlSEo8X9YoBBEX-k4NlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283215633653-aakedt557r3546e2mvdfej8j4cit5l0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
